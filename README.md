@@ -1,6 +1,6 @@
-<h1 align="center">Conversor de Moedas - David </h1>
+<h1 align="center">Conversor de Moedas - Super Mario Theme </h1>
 
-![Imagem do projeto finalizado](imagem/imagem_do_site)
+![Imagem do projeto finalizado](imagens/imagem_do_site.png)
 
 ---
 
